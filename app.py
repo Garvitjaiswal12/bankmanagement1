@@ -218,3 +218,4 @@ elif choice == "Delete Account":
             st.success("Account deleted successfully")
         else:
             st.error("User not found")
+
